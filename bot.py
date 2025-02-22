@@ -6,11 +6,11 @@ Configuration and Globals
 
 --------------------------
 
-TOKEN = "YOUR_BOT_TOKEN"  # Replace with your bot token DATA_FILE = "reports.json"
+TOKEN = "7796539888:AAGAtFvOJgx-4YFQsWWLL6eliUQOEj2CcMw"  # Replace with your bot token DATA_FILE = "reports.json"
 
 Pre-approved admin Telegram user IDs
 
-ADMIN_IDS = [123456789, 987654321]  # Replace with actual admin IDs
+ADMIN_IDS = [123456789, 6733652838]  # Replace with actual admin IDs
 
 Make sure data file exists
 
