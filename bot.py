@@ -1,5 +1,21 @@
-import json import os from datetime import datetime, date from telegram import ( Update, InlineKeyboardButton, InlineKeyboardMarkup, ReplyKeyboardRemove ) from telegram.ext import ( Updater, CommandHandler, CallbackQueryHandler, MessageHandler, Filters, CallbackContext, ConversationHandler )
-
+import json
+import os
+from datetime import datetime, date
+from telegram import (
+    Update,
+    InlineKeyboardButton,
+    InlineKeyboardMarkup,
+    ReplyKeyboardRemove
+)
+from telegram.ext import (
+    Updater,
+    CommandHandler,
+    CallbackQueryHandler,
+    MessageHandler,
+    Filters,
+    CallbackContext,
+    ConversationHandler
+)
 --------------------------
 
 Configuration and Globals
